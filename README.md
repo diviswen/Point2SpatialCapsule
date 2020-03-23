@@ -6,4 +6,6 @@ Python 2.7
 Tensorflow 1.4.0
 
 
-
+## Pretrained model
+The pretrained parameters for ModelNet40 can be find in:
+https://drive.google.com/open?id=1ITlNzy9RO6iJ3TCM-jS-Gn2A1YeYuFm-
